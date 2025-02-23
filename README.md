@@ -1,14 +1,16 @@
-# فصل کار
+# همپا
 ## توضیحات: 
-این اپلیکیشن در زمینه کار یابی برای مشاغل کوتاه مدت چند روزه
-فعالیت دارد مانند نیاز به چند نیرو برای بردداشت میوه و یا نیاز به
-چند ماشین برای درو کردن زمین یا نیاز به چند کارگر برای تخریب
-یک دیوار و...
+ااین اپلیکیشن در زمینه خدمات رسانی در ایام اربعین حسینی(ع)
+فعالیت دارد.
+حوزه های فعالیت این اپلیکیشن در زمینه خدمات رسانی، رزرو
+پارکینگ، رزرو هتل، موقعیت موکب ها و...حوزه های فعالیت این
+اپلیکیشنمیباشد
 
 ## تصاویری از محیط برنامه
+![3](https://github.com/user-attachments/assets/e0d02211-aa05-4994-8aa2-821f66ed9f73)
 
-<img src="https://github.com/user-attachments/assets/41b7fb6d-c36c-429b-8acf-c97e0aaf332f" width="270"> 
-<img src="https://github.com/user-attachments/assets/9de19a6d-e910-4941-93b5-9af0792778e1" width="270">   <img src="https://github.com/user-attachments/assets/fe9b83d8-5a5d-413c-beb3-9fd579944434" width="270">
+<img src="https://github.com/user-attachments/assets/b9877236-9a2b-4bcc-8c80-44f22679e629" width="270"> 
+<img src="https://github.com/user-attachments/assets/317419a6-7680-4fad-970b-7b8b081cb0d7" width="270">   <img src="https://github.com/user-attachments/assets/e0d02211-aa05-4994-8aa2-821f66ed9f73" width="270">
 <br>
 
 ##
@@ -29,4 +31,6 @@
  ```
  
 ```
+
+
 
